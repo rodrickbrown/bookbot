@@ -1,1 +1,1 @@
-Initial readme
+Bookbot is my first project! 
